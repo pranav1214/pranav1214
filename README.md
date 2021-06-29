@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pranav1214
 - 👀 I’m interested in sports and coding   
-- 🌱 I’m currently learning pytohn, django, MERN Stack
+- 🌱 I’m currently learning python, django, MERN, MEVN Stack
 - 💞️ I’m looking to collaborate on MERN projects
 - 📫 How to reach me - pranav1214@gmail.com
 
